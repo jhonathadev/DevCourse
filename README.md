@@ -1,3 +1,1 @@
-# DevCourse
-Web Development Course Projects
-
+#Web Development Course
