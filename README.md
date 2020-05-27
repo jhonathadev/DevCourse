@@ -1,4 +1,6 @@
 
 #Web Development Course.
+
 ##Anna Bella Site 
-<img src="imgs/annabelasite.png" height="500px">
+
+![alt text](https://github.com/jhonathahandz/DevCourse/blob/master/imgs/annabelasite.png)
