@@ -1,0 +1,56 @@
+body {
+    background: url('../imgs/fundo.png');
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+h3 {
+    color: #838383;
+}
+
+ul {
+    display: inline-flex;
+    background-color: #c5c5b2;
+    color:white;
+    height: 50px;
+    width: 860px;
+    max-width: 860px;
+    align-items: center;
+    margin: 0px;
+}
+
+
+a {
+    color: #4b566a;
+    padding: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    max-width: 900px;
+    text-align: center;
+}
+
+.fundo-branco {
+    background-color: #ffffff;
+    max-width: 880px;
+    padding: 10px;
+}
+
+.fundo-branco-no-image {
+    background-color: #ffffff;
+    max-width: 880px;
+    padding: 10px;
+}
+
+.img-border {
+    border: 10px solid #cdcdcd;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#container {
+    max-width: 900px;
+}
+
