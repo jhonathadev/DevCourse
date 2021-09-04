@@ -1,5 +1,6 @@
 # Web Development Course :computer:
 Projetos e fundamentos abordados no curso de desenvolvimento web da cod3r.
+
 Processo: em andamento :clock230:
 
 ## Tecnológias aprendidas :heavy_check_mark:
