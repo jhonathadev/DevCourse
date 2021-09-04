@@ -1,5 +1,5 @@
 # Web Development Course
+Projetos e fundamentos abordados no curso de desenvolvimento web da cod3r.
 
-## Anna Bella Site 
-
-<img src="imgs/annabelasite.png" height="500px">
+## Tecnologias aprendidas
+** JavaScript
